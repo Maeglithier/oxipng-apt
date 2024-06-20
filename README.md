@@ -14,7 +14,7 @@ Para que o APT identifique este repositório e seja capaz de instalar e atualiza
 ```shell
 sudo apt remove oxipng # Apenas se você instalou o oxipng usando o arquivo deb. Neste caso, desinstale primeiro.
 wget -qO- https://maeglithier.github.io/oxipng-apt/pubkey.asc | sudo gpg --dearmor -o /usr/share/keyrings/oxipng-archive-keyring.gpg
-echo "deb [arch=amd64 signed-by=/usr/share/keyrings/oxipng-archive-keyring.gpg] https://maeglithier.github.io/oxipng-apt stable main" | sudo tee /etc/apt/sources.list.d/oxipng.list >/dev/null
+echo "deb [arch=amd64,arm64 signed-by=/usr/share/keyrings/oxipng-archive-keyring.gpg] https://maeglithier.github.io/oxipng-apt stable main" | sudo tee /etc/apt/sources.list.d/oxipng.list >/dev/null
 sudo apt update
 sudo apt install oxipng -y # Agora você está pronto para instalar e atualizar sempre que uma nova versão lançar.
 ```
