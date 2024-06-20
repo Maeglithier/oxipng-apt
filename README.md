@@ -30,6 +30,7 @@ sudo rm /etc/apt/sources.list.d/oxipng.list
 # Checksum
 
 c8ccb605d52a103af313852597064f3ad02ce524e175e92e19bfa690d9cc4b37  pool/main/o/oxipng/oxipng_9.1.1-1_amd64.deb
+
 fdcc3b8089162cf553660562cacaf1b3dfca26df81583dbc7223a3c0d89805ae  pool/main/o/oxipng/oxipng_9.1.1-1_arm64.deb
 
 # Copyright
