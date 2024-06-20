@@ -1,0 +1,26 @@
+Codename: stable
+Date: Thu, 20 Jun 2024 15:26:52 UTC
+Architectures: amd64 arm64
+Components: main
+Description: Unofficial APT repository for Debian/Ubuntu oxipng
+MD5Sum:
+ 78522d06fb2831af0e6ac9db08725fe0 10915 main/binary-amd64/Packages
+ c6ac6e34f5de256abba4c1ea18065f2b 4321 main/binary-amd64/Packages.gz
+ be841408cc8f752eaed21a71c685076a 100 main/binary-amd64/Release
+ b6ee3d0a6dfe1f27d67d286cb7bf5923 10921 main/binary-arm64/Packages
+ a68d033baeff8148b4fe00ebd127eea2 4324 main/binary-arm64/Packages.gz
+ 0323f7745e8043ec38c9d27bc20ce4c2 100 main/binary-arm64/Release
+SHA1:
+ 5d345668d95ce1e82ac9f9ffadd33cbea306f5fa 10915 main/binary-amd64/Packages
+ aa2af9d74449cd7a7b20822e8ebe84ffd04eefcf 4321 main/binary-amd64/Packages.gz
+ 3f212a0fd404e6c8fa04b89f8811ad20d5c56e1f 100 main/binary-amd64/Release
+ 471bb1cc46263a730d3b835b411a35c6cff8e92b 10921 main/binary-arm64/Packages
+ c28a7d599705b7c14d82e9876292094c319209d8 4324 main/binary-arm64/Packages.gz
+ 9d3ce6984ae53af50c07f0300c7fda1781254ed7 100 main/binary-arm64/Release
+SHA256:
+ ac7fa5e76763efe01e63b9364f3769142109529a92fc724525cb6174e57fc9fe 10915 main/binary-amd64/Packages
+ 344b1951f27ea3de556168d27fcec99ff94de143f815393ceecd17fa68146a8e 4321 main/binary-amd64/Packages.gz
+ 48db4a13677d967389aa0399a2547e0f095101f56018663cbc0d04852b10478f 100 main/binary-amd64/Release
+ 89d8f6b28087785e1aef2894499e5dc5b084b7f7cff3f3fd2c41e933e0aa6b54 10921 main/binary-arm64/Packages
+ 2ec61e833397ff86411ef6f9fb2a4c4f3c059b6958b26837fcbd583f3e683e33 4324 main/binary-arm64/Packages.gz
+ 24723ee8b584e8f54453b27715bbef77846b57b74056c582618cb4dfd60cdbfd 100 main/binary-arm64/Release
