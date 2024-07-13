@@ -1,19 +1,19 @@
 Package: oxipng
-Version: 9.1.1-1
+Version: 9.1.2-1
 Architecture: amd64
 Vcs-Browser: https://github.com/shssoichiro/oxipng
 Vcs-Git: https://github.com/shssoichiro/oxipng
 Homepage: https://github.com/shssoichiro/oxipng
 Maintainer: Joshua Holmer <jholmer.in@gmail.com>
-Installed-Size: 1361
+Installed-Size: 1399
 Depends: libc6 (>= 2.34)
 Priority: optional
 Section: default
-Filename: pool/main/o/oxipng/oxipng_9.1.1-1_amd64.deb
-Size: 519644
-SHA256: c8ccb605d52a103af313852597064f3ad02ce524e175e92e19bfa690d9cc4b37
-SHA1: 55ed5a4065f279735b6d63148cb449aa23f4c3a2
-MD5sum: e2a30c413227df044f81e03807eaee27
+Filename: pool/main/o/oxipng/oxipng_9.1.2-1_amd64.deb
+Size: 525772
+SHA256: 12cdffc13c4fe5c80d954e7280c86679202ac4a70ae98662210519c571ff088f
+SHA1: 66297b8b25e750b68e60bcc958aed6b33f0ab3e6
+MD5sum: 6a820f74fc3515c69d90c3930fc0da86
 Description: A lossless PNG compression optimizer
  # Oxipng
  .
